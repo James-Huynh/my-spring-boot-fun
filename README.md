@@ -1,1 +1,1 @@
-# Author: James Huynh
+**Author**: James Huynh
